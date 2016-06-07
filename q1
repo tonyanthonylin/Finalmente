@@ -33,4 +33,13 @@ B.  Write a method "cast" that casts the n-th element of the "spells" array.
     }}}
     
 C.  Write a "hello" method that prints an introduction stating the name of the Wizard.
+
+  public void hello(){
+    System.out.println("i'm a wizard and you are a muggle.  my name is " + name);
+    }
+
 D.  Write a main method for the Wizard class.  In it construct a wizard with name "Harry Poppins".  Use the hello() method.
+
+  public static void main(String [ ] args){
+    HarryPoppins.hello();
+    }
