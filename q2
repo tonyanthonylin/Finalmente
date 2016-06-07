@@ -8,12 +8,26 @@ A.  Explain what recursion is and when it is useful.
 
 B.  Describe the difference between a Queue and a Stack.
 
-
+a queue is like a horizontal line which is first in first out, a stack is a vertical line and it's first in last out.
 
 C.  Write a class for an element doublely-linked list.
+
+ public DoublyLinkedList(){
+  private DLnk next;
+  private DLnk prev;
+  public DLnk(DLnk next, DLnk prev){
+  this.next = next;
+  this.prev=prev;
+}}
 
 D.  Explain what a Merkle Tree is.  
     Describe the structure and purpose of a Merkle Tree.
     What is the Merkle root?
     What is the function of a certificate in this data structure?
+    
+    merkle tree is the kind of tree diagram where non-leaf node is a hash of the two nodes below it.
+    merkle trees can quickly comparing datas and find it's parent or it's sub tree.
+    merkle root is the bottom level of the tree, and it is each individual's work's hash.
+    
+    
     
