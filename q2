@@ -2,8 +2,13 @@
 
 A.  Explain what recursion is and when it is useful.
     Explain what the |termination step| and |recursion step| are in a recursive method.
+    
+ recursion is the technique that you use to have a mathod itself to solve a problem. recursion can cut sown your code with your solutions.
+ termination step is an end step where your program in stead of keep running in a loop, it terminates. recursion step is where it starts recursion.
 
 B.  Describe the difference between a Queue and a Stack.
+
+
 
 C.  Write a class for an element doublely-linked list.
 
