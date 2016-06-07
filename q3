@@ -27,7 +27,8 @@ D.  Consider the following PYTHON code for the MNode class given below.
     Explain the difference in how constructors are written in Python vs Java.
     Which language do you prefer?  Explain why.
     
-    
+    in python, you don't declear a type, but in java everything need to be deleared specificaly.
+    you don't need to have a curly bracket in a constructor in python
     
     
     
