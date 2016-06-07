@@ -18,10 +18,20 @@ B.  Identify your favorite Java project this semester.
 C.  Describe two advantages of object-oriented programming.
     Describe two disadvantages of object-oriented programming.
     
+    OOP can be written in many different parts i stead of a huge chunk of code all together. OOP can be edited easily since you can just
+    edit one segment of the code and others remains the same.
+    OOB can be much larger than other programs. OOB works a bit slower than other programing method.
+    
 D.  Consider the following PYTHON code for the MNode class given below.
     What is the difference in the way Python and Java handle the declaration of datatypes?
     Explain the difference in how constructors are written in Python vs Java.
     Which language do you prefer?  Explain why.
+    
+    
+    
+    
+    
+    
 -------------------------------------------------------------------------------------
     import hashlib
 
