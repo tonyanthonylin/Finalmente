@@ -28,10 +28,8 @@ D.  Consider the following PYTHON code for the MNode class given below.
     Which language do you prefer?  Explain why.
     
     in python, you don't declear a type, but in java everything need to be deleared specificaly.
-    you don't need to have a curly bracket in a constructor in python
-    
-    
-    
+    you don't need to have a curly bracket in a constructor in python, and it needs to be indented in python.
+    I perfer java because in java we don't need to make things indented and i can set veriables more specific.
     
 -------------------------------------------------------------------------------------
     import hashlib
