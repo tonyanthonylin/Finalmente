@@ -2,9 +2,18 @@
 
 A.  Explain how digital signature works with public/private keypairs.
 
+for example, we have a teacher and a student, each with a different digital signitue, with teacher's digital signiture, we can view the
+information in both public and private, while the student signiture can only access public.
+
 B.  Identify your favorite Java project this semester.  
     Describe two things you learned by doing the project.
     Describe two ways in which the project could be improved or expanded.
+    
+    my favorite java projext this semaster is blackjack.
+    i learnt the shuffle method which i can re-organize an array of list. and i learnt how to better use latex when i'm writing the project
+    by using many new data packs.
+    the first thing that i couuld have done better is adding some more code into the blackjack code because a lot of the code is from what
+    we did in class, and i could definelly write more discription for the method while wiring the paper for blackjack.
     
 C.  Describe two advantages of object-oriented programming.
     Describe two disadvantages of object-oriented programming.
