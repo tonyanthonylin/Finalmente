@@ -28,6 +28,7 @@ D.  Explain what a Merkle Tree is.
     merkle tree is the kind of tree diagram where non-leaf node is a hash of the two nodes below it.
     merkle trees can quickly comparing datas and find it's parent or it's sub tree.
     merkle root is the bottom level of the tree, and it is each individual's work's hash.
+    to have a certificate can make it runs smoother
     
     
     
